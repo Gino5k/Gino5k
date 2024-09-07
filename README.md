@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gino5k. I created this Github repository mostly for experimenting and personal use :-)
+- 👋 Hi, I’m @Gino5k. This Github repositories are meant to be used mostly for experimenting and personal use :-)
 - 👀 I’m interested in virtualization technologies and use of of containers at scale (Docker / Kubernets / LXC, etc...)
 - 🌱 I’m currently learning ProxMox
 - 😄 Pronouns: he / him
